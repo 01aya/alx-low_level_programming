@@ -8,7 +8,7 @@
  * @n: input value
  * Return: dest
  */
-char *_strncat(char *dest, char *src, char *n)
+char *_strncat(char *dest, char *src, char n)
 {
 	int i;
 	int j;
